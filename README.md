@@ -1,0 +1,1 @@
+Python is an object-oriented language, allowing you to structure your code using classes and objects for better organization and reusability. Tip: The DRY principle means you should avoid writing the same code more than once. Move repeated code into functions or classes and reuse it.
